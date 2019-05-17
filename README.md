@@ -1,5 +1,5 @@
 # react-fc1-objective
-# React functional components 1 objectives challenge
+# React functional components 1 objectives challenges
 
 Now that you’ve seen how we can build out a Hello World React application I want you to do this alone from scratch. You can reference your previous HTML document, but I don’t want you copying and pasting the whole thing. Things you can copy and paste would be the script tags you need with the react library being pulled in via unpkg.
 
@@ -17,3 +17,14 @@ Decide what type of element you want rendered to the screen, and what attributes
 finally, mount your element to your wrapper div using ReactDOM.render.
 
 ** Stretch Problem ** If you’re done early, create a <style></style> tag in your HTML document and select your className class and try changing the color of your element.
+
+Objective challenge 2:
+
+From scratch, build out a React application within an HTML file that will mount an header with your name, age and location. Use a <style> tag to add some CSS and make your profile you just built look nice and pretty.
+
+Objective challenge 3:
+
+Your task here is to start to build out a few pieces of composed components that you’ll build from scratch. We’ll have a few design files available for you to follow along with.
+    Project: React-UI-Components
+    Code Challenge: InsertionSort
+    Code Challenge: QuickSort
